@@ -1,6 +1,6 @@
 
 # An example workflow of dendritic spine image processing
-To be added 
+Description to be added
 
 
 ## Author
@@ -36,7 +36,7 @@ To be added
 
 ## Citation
 
-To be added
+Citation to be added after published
 
 
 ## License
