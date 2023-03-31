@@ -12,14 +12,14 @@ To be added
 | Package            | Version     | 
 | :----------------------- | :---------------- | 
 |python | 3.8.12 |
-|scikit-image  |            0.17.2
+|[scikit-image](https://scikit-image.org/)  |            0.17.2
 |scikit-learn |  1.0.2
 |numpy                  |            1.21.2
 |pandas                  |           1.3.5
 |scipy                     |         1.7.3
 |matplotlib            |             3.5.0
-|plotly                |    4.14.3
-|nd2reader | 0.10.0
+|[plotly](https://github.com/plotly/plotly.py)                |    4.14.3
+|[nd2reader](https://github.com/Open-Science-Tools/nd2reader) | 0.10.0
 
 
 
