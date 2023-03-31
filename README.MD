@@ -25,13 +25,13 @@ To be added
 
 ## Usage and Example
 
-- uncompress "data" folder in "data.7z.001" under the working directory 
-- run example.ipynb
+- unzip  "data/" folder in "data.7z.001" under the working directory 
+- run [example.ipynb](https://github.com/libenzheng/dendritic_spine_processing_example/blob/main/example.ipynb)
 
 ## Functions  
-- ImageDataIO.py: load and crop raw nd2 images
-- ImagePreprocessing.py: interpolation, normalization, and thresholding 
-- SpineSegAndQuantify.py spine segmentation and quantification 
+- [ImageDataIO.py](https://github.com/libenzheng/dendritic_spine_processing_example/blob/main/ImageDataIO.py): load and crop raw nd2 images
+- [ImagePreprocessing.py](https://github.com/libenzheng/dendritic_spine_processing_example/blob/main/ImagePreprocessing.py): interpolation, normalization, and thresholding 
+- [SpineSegAndQuantify.py](https://github.com/libenzheng/dendritic_spine_processing_example/blob/main/SpineSegAndQuantify.py):spine segmentation and quantification 
 
 
 ## Citation
