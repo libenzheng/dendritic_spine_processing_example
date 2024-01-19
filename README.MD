@@ -35,8 +35,7 @@ Scripts for dendritic spine data analysis and visualization that demonstrated in
 
 
 ## Citation
-
-|Li, Ben-Zheng, Anna Sumera, Sam A. Booker, and Elizabeth A. McCullagh. "Current Best Practices for Analysis of Dendritic Spine Morphology and Number in Neurodevelopmental Disorder Research." ACS Chemical Neuroscience 14, no. 9 (2023): 1561-1572.
+- Li, Ben-Zheng, Anna Sumera, Sam A. Booker, and Elizabeth A. McCullagh. "Current Best Practices for Analysis of Dendritic Spine Morphology and Number in Neurodevelopmental Disorder Research." ACS Chemical Neuroscience 14, no. 9 (2023): 1561-1572.
 
 
 ## License
