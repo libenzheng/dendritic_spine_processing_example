@@ -1,6 +1,6 @@
 
 # An example workflow of dendritic spine image processing
-Description to be added
+Scripts for dendritic spine data analysis and visualization that demonstrated in the paper "Li, Ben-Zheng, Anna Sumera, Sam A. Booker, and Elizabeth A. McCullagh. "Current Best Practices for Analysis of Dendritic Spine Morphology and Number in Neurodevelopmental Disorder Research." ACS Chemical Neuroscience 14, no. 9 (2023): 1561-1572".
 
 
 ## Author
@@ -36,7 +36,7 @@ Description to be added
 
 ## Citation
 
-Citation to be added after published
+|Li, Ben-Zheng, Anna Sumera, Sam A. Booker, and Elizabeth A. McCullagh. "Current Best Practices for Analysis of Dendritic Spine Morphology and Number in Neurodevelopmental Disorder Research." ACS Chemical Neuroscience 14, no. 9 (2023): 1561-1572.
 
 
 ## License
